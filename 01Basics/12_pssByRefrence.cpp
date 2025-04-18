@@ -2,6 +2,7 @@
 using namespace std;
 
 // it send actual value to funtion which change the value taken from user
+// pass by refrence
 
 void swapFun(int &num1, int &num2){
    int temp = num1;

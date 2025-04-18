@@ -3,6 +3,7 @@ using namespace std;
 
 // It's send Copy to function  means it not change the  value on num1 and num2 
 // taken down from user
+// pass by value
 
 void swapFun(int num1, int num2){
     int temp = num1;
