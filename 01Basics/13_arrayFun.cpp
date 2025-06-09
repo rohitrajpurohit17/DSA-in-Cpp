@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 
 void fun(int arr[],int n){
@@ -22,3 +23,4 @@ int main(){
 
     cout << arr[0] << " After Process"<< endl;
 }
+
